@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Zahra Panabadi</title>
+    </head>
+    <body dir="rtl">
+        <div>
+            <a href="../index.html">خانه</a>&nbsp;&nbsp;&nbsp;
+            <a href="news.html">اخبار</a>&nbsp;&nbsp;&nbsp;
+            <a href="gallry.html">گالری</a>&nbsp;&nbsp;&nbsp;
+            <a href="#">درباره ما</a>&nbsp;&nbsp;&nbsp;
+        </div>
+        <img src="../imgs/img2.jpg" alt="image for about" width="1500px" height="500">
+        <p>
+            این <em>صفحه</em><strong> فقط &nbsp;</strong>تست میباشد.
+        </p>
+        <p>علامت تجاری ثبت شده است.&reg;</p>
+    </body>
+</html>
